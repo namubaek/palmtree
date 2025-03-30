@@ -7,7 +7,7 @@ title: Home
 permalink: /
 ---
 
-# PalmTree Pages
+# PalmTree Pages 입니다
 
 Hello 👋<br>
 
